@@ -6,3 +6,9 @@
 - [Задание 3](https://maxim330-7.github.io/lab1/lab1_3.html)
 - [Задание 4](https://maxim330-7.github.io/lab1/lab1_4.html)
 - [Задание 5](https://maxim330-7.github.io/lab1/lab1_5.html)
+  ## Лабараторная работа 2
+- [Задание 1](https://maxim330-7.github.io/lab2/lab2_1.html)
+- [Задание 2](https://maxim330-7.github.io/lab2/lab2_2.html)
+- [Задание 3](https://maxim330-7.github.io/lab2/lab2_3.html)
+- [Задание 4](https://maxim330-7.github.io/lab2/lab2_4.html)
+- [Задание 5](https://maxim330-7.github.io/lab2/lab2_5.html)
