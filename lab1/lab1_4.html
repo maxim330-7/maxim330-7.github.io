@@ -7,7 +7,7 @@
 <body>
 	<section class="center">
 		<h1>Изображения</h1>
-        <img src="./images/slon.png" alt="Слон">
+        <img src="./images/slon.png" alt="Слон" width="300" height="200">
 
 		<h2>Элемент <code>img</code></h2>
 
@@ -25,12 +25,11 @@
 		используют атрибуты <code>sizes</code> и  <code>srcset</code>.
 		Атрибут <code>sizes</code> задаёт размеры изображения для разных макетов страницы. 
 		Атрибут <code>srcset</code> задаёт путь к графическим файлам с учётом размера изображения и устройств.
-
 		</p>
 
 		<h2>Подпись к изображению</h2>
         <figure>
-            <img src="./images/globus.gif">
+            <img src="./images/globus.gif" alt="Глобус" width="300" height="200">
             <figcaption>Глобус</figcaption>
         </figure>
 		<p>Для группирования любых элементов, например, изображений и подписей к ним используется элемент <code>figure</code>.
@@ -40,9 +39,9 @@
 
 		<h2>Элемент picture</h2>
         <picture>
-            <source srcset="./images/mushroom_portrait.jpg, ./images/mushroom_landscape.jpg">
-            <img src="./images/mushroom.jpg" alt="гриб">
-          </picture>
+            <source srcset="./images/mushroom_portrait.jpg 1x, ./images/mushroom_landscape.jpg 2x" media="(max-width: 600px)">
+            <img src="./images/mushroom.jpg" alt="Гриб" width="300" height="200">
+        </picture>
 		<p>
 		HTML-элемент <code>picture</code> служит контейнером для одного или более элементов 
 		<code>source</code> и одного элемента <code>img</code> для обеспечения оптимальной версии изображения 
