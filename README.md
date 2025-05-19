@@ -31,5 +31,7 @@
 - [Задание 3](https://maxim330-7.github.io/lab5/lab5_3.html)
 - [Задание 4](https://maxim330-7.github.io/lab5/lab5_4.html)
 - [Задание 5](https://maxim330-7.github.io/lab5/lab5_5.html)
+## Лабораторная работа 6
+- [Сайт-визитка](https://maxim330-7.github.io/mamon/)
 ## Лабораторная работа 7
 - [Сайт-визитка](https://maxim330-7.github.io/lab7/BulBul.html)
